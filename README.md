@@ -19,11 +19,11 @@ This project aims to extract text from documents using AWS Textract, providing a
 # Setup
 1. Clone the repository:
 
-git clone https://github.com/sooryaprasad28/aws-textract/
+    git clone https://github.com/sooryaprasad28/aws-textract/
 
 2. Install dependencies:
 
-pip install boto3 pillow awscli
+    pip install boto3 pillow awscli
 
 3. Configure AWS credentials:
     - If you haven't already configured AWS CLI, you can do so by running command: **aws configure**
