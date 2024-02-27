@@ -23,9 +23,7 @@ git clone https://github.com/sooryaprasad28/aws-textract/
 
 2. Install dependencies:
 
-pip install boto3
-pip instal pillow
-pip install awscli
+pip install boto3 pillow awscli
 
 3. Configure AWS credentials:
     - If you haven't already configured AWS CLI, you can do so by running command: **aws configure**
